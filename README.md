@@ -1,12 +1,12 @@
-# Facto Assignment
+# Employee Dashboard with AG Grid
 
 ## Project Overview
 This project is created as part of the company assignment.
 
 ## Features
+- Employee Dashboard
+- AG Grid Integration
 - Responsive UI
-- User-friendly interface
-- Fast performance
 
 ## Tech Stack
 - React.js
@@ -23,13 +23,6 @@ npm install
 
 ```bash
 npm run dev
-```
-
-## Folder Structure
-
-```bash
-src/
-public/
 ```
 
 ## Author
